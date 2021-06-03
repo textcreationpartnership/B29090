@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great oracle even the maine frame, and body of the Scriptures, resolving the question, whether in mans free-will and common grace, or in Gods speciall and effectuall grace, stands the safety of man, and the glory of God by mans safety. By F. Rous.</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29090</idno><idno type="EEBO-CITATION">99829464</idno>
+  <idno type="VID">207067</idno>
+  <idno type="EEBO-PROQUEST">2248496588</idno>
+  
+            <idno type="STC">Wing R2016</idno>
+            <idno type="PROQUEST">99829464</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829464e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1979:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great oracle even the maine frame, and body of the Scriptures, resolving the question, whether in mans free-will and common grace, or in Gods speciall and effectuall grace, stands the safety of man, and the glory of God by mans safety. By F. Rous.</title>
+               </titleStmt>
+               <extent>[12], 191, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by R.O. and G.D. for I. Bartlet at the signe of the gilt Cup, in Pauls Churchyard, neere Saint Augustins Gate,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf is blank.</note>
+                  <note>With an imprimatur leaf on A6, signed: Johannes Hansley.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Oracles --  Early works to 1800.</term>
+               <term type="topical_term">Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207067:1"/>
+            <pb facs="tcp:207067:1"/>
+            <p>THE GREAT ORACLE. EVEN, The maine Frame, and Body of the <hi>Scriptures,</hi> re<g ref="char:EOLhyphen"/>solving the Question, whether in Mans <hi>Free-will</hi> and common Grace, or in GODS speciall and effectuall Grace, stands the safety of Man, and the Glory of GOD by Mans safety.</p>
+            <p>
+               <hi>By</hi> F. ROUS.</p>
+            <q>
+               <bibl>
+                  <hi>LVKE 16.31. JOHN 12.10 11.</hi>
+               </bibl> If they heare not Moses and the Prophets, nei<g ref="char:EOLhyphen"/>ther will they be perswaded though one rose from the dead.</q>
+            <p>Printed at <hi>London</hi> by <hi>R. O.</hi> and <hi>G. D.</hi> for <hi>I. Bartlet</hi> at the Signe of the gilt Cup, in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, neer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saint <hi>Augustins</hi> Gate. 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207067:2"/>
+            <pb facs="tcp:207067:2"/>
+            <head>TO <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> RIGHT HO<g ref="char:EOLhyphen"/>NOVRABLE, and Deservedly honoured the <hi>La<g ref="char:EOLhyphen"/>dy</hi> LVCY ROBERTS.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </seg>HIS worke of <hi>Grace,</hi> by many passag<g ref="char:EOLhyphen"/>es of provi<g ref="char:EOLhyphen"/>dence seemed to bee kept
+<pb facs="tcp:207067:3"/>for a yeare of <hi>Grace.</hi> And indeed, as any free <hi>Mercy</hi> given out to a Nation, both sin<g ref="char:EOLhyphen"/>full and miserable, may well beare the Name of <hi>Grace,</hi> so more par<g ref="char:EOLhyphen"/>ticularly that may fitly bee called a Time of <hi>Grace,</hi> when <hi>Grace</hi> may freely speake for it selfe, and have leave to be heard.</p>
+            <p>This Leave by the <hi>Grace</hi> and <hi>Goodnesse</hi> of the All-ruling Provi<g ref="char:EOLhyphen"/>dence
+<pb facs="tcp:207067:3"/>is now obtained for this worke. A worke which began after a conference with my ever-honoured Bro<g ref="char:EOLhyphen"/>ther, Master <hi>PYM,</hi> wherein it was dis<g ref="char:EOLhyphen"/>coursed; That the ve<g ref="char:EOLhyphen"/>ry maine Plot, and Summe of the <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> was to shew, that the Will of the rationall Creature, was onely safe in the keeping of the Creator; and there<g ref="char:EOLhyphen"/>fore to the Creator a<g ref="char:EOLhyphen"/>lone
+<pb facs="tcp:207067:4"/>did belong the <hi>Glo<g ref="char:EOLhyphen"/>ry</hi> of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Ʋpon this great ob<g ref="char:EOLhyphen"/>ject▪ this <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (as a narrow Map of a Large World) being <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, it <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> came to your Ladyships hands, from whom I re<g ref="char:EOLhyphen"/>ceived it againe, with a promise to returne it in this shape▪ wherein it now appeares. Accor<g ref="char:EOLhyphen"/>ding to this promise, (though not without
+<pb facs="tcp:207067:4"/>sundry intervenient difficulties) it is now pre<g ref="char:EOLhyphen"/>sented; and being made publicke, if any publick benefit arise from it, it owes some acknowledg<g ref="char:EOLhyphen"/>ment to your Ladiships Religious calling for it, and furtherance of it; to whom by the best ob<g ref="char:EOLhyphen"/>ligements of Pietyand many other merits I pro<g ref="char:EOLhyphen"/>fesse my selfe.</p>
+            <closer>
+               <signed>Your Honours acquir<g ref="char:EOLhyphen"/>ed and devoted servant F. ROVS.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:207067:5"/>
+            <pb facs="tcp:207067:5"/>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Martij vlt.</hi> 1640.</date>
+               </dateline>
+               <signed>JOHANNES HANSLEY.</signed>
+            </closer>
+         </div>
+         <div type="by_the_same_author">
+            <pb facs="tcp:207067:6"/>
+            <p>
+               <hi>The same Author hath lately set forth a Booke called</hi> Catholike Charity <hi>in Answer to</hi> Charity <hi>mi<g ref="char:EOLhyphen"/>staken.</hi>
+            </p>
+            <p>
+               <hi>Also another called the heavenly Academy.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207067:6"/>
+            <head>THE GREAT ORACLE.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD is the end of himselfe,
+<label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label>
+               <note place="margin">
+                  <hi>God</hi> hath a plot of Glory upon Man.</note> in all his wayes, workes and Counsells; neither is there any end worthy of God, but God. Therefore all his workes as they begin in Him, so they end in him, bringing some Glory to
+<pb n="2" facs="tcp:207067:7"/>him. And among his workes MAN being a Chiefe, it must needs be thought, that a chiefe Glory ariseth from Man unto GOD. For where GOD soweth much, there doth hee meane to re<g ref="char:EOLhyphen"/>quire and reape much.</p>
+            <p>Having then a great <hi>Plot</hi> of <hi>Glory,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">This <hi>plot</hi> is reveal<g ref="char:EOLhyphen"/>ed in the word.</note> upon this <hi>Chiefe Creature</hi> of the lower World, where shall we look for the dis<g ref="char:EOLhyphen"/>covery of this <hi>Plot,</hi> but in that <hi>Word</hi> wherein GOD hath revealed to Man (as much as may make for his Glory) his wayes, workes and Counsells?
+<pb n="3" facs="tcp:207067:7"/>
+               <hi>Hee hath made his wayes knowne to Moses,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 103.7.</note> saith <hi>the Psalmist;</hi> and <hi>the Scrip<g ref="char:EOLhyphen"/>tures are able to make wise unto Salvation,</hi> saith the <hi>Apostle,</hi>
+               <note place="margin">2 <hi>Tim.</hi> 3.16.17.</note> yea they <hi>can make the man of God perfect;</hi> which to performe, they must needs discover so much of <hi>Gods</hi> wisdome to Man, as may make up this <hi>perfection.</hi>
+            </p>
+            <p>In the <hi>word</hi> of God then,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">Most ful<g ref="char:EOLhyphen"/>ly in the main Bo<g ref="char:EOLhyphen"/>dy of the word.</note> there being that perfect discovery of <hi>Gods wisedome,</hi> and <hi>Plot of Glo<g ref="char:EOLhyphen"/>ry</hi> upon man kinde, let us looke into that word of God, (and not into the wit of man) to find this
+<pb n="4" facs="tcp:207067:8"/>worke of God. Neither let us so much looke on single, and scattered parts of it, as on the mayn <hi>Frame, Body</hi> and <hi>Contex<g ref="char:EOLhyphen"/>ture</hi> of it; the whole <hi>word</hi> most entirely and fully representing and expressing the whole <hi>worke.</hi> For if wee well view and observe the full <hi>Countenance, Concurrence,</hi> and <hi>Frame</hi> of the Scrip<g ref="char:EOLhyphen"/>tures, wee shall therein read as in great Letters, Gods <hi>Plot of Glory</hi> upon Mankinde; and withall we may see how Mans safety is infolded there<g ref="char:EOLhyphen"/>in; and makes up a Chief
+<pb n="5" facs="tcp:207067:8"/>part of it. For the Scrip<g ref="char:EOLhyphen"/>tures are the <hi>Characters,</hi> and <hi>Representations</hi> of the <hi>mind</hi> of <hi>God;</hi> and as the <hi>living Creatures</hi> in <hi>Eze<g ref="char:EOLhyphen"/>kiel,</hi>
+               <note place="margin">
+                  <hi>Ezek</hi> 1.20</note>
+               <hi>whither the Spirit was to goe, they went;</hi> e<g ref="char:EOLhyphen"/>ven so these <hi>words</hi> of <hi>life,</hi> which way the <hi>highest Spi<g ref="char:EOLhyphen"/>rit,</hi> looketh and goeth, that way they looke and goe also. For the <hi>Highest Spirit,</hi> when he dictated them, did put his mind and meaning into them; and so in them wee may discerne the <hi>mind of God.</hi> And the more large and full view, they present unto us, the more fully
+<pb n="6" facs="tcp:207067:9"/>doth the <hi>mind of God</hi> ap<g ref="char:EOLhyphen"/>peare in them, where<g ref="char:EOLhyphen"/>fore let us behold them in their fulnesse, and that with a full and enlarged sight, and then shall we more fully and largely discerne and see Gods Countenance in their Countenance, Gods ay me in their ayme, Gods mind in their meaning.
+<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+            </p>
+            <p>And having found the mayne purpose,
+<note place="margin">The Bo<g ref="char:EOLhyphen"/>dy of the word best ex<g ref="char:EOLhyphen"/>pounds the parts of it.</note>
+               <hi>Plot,</hi> and end of God in the mayne Body of the Scriptures, let us bee sure to hold it fast, as a <hi>Treasure</hi> of <hi>truth unvaluable;</hi> even an espe<g ref="char:EOLhyphen"/>ciall part of that truth,
+<pb n="7" facs="tcp:207067:9"/>which wee should buy at any price, but sell for no price. Besides; this farther <hi>use</hi> and <hi>Advan<g ref="char:EOLhyphen"/>tage</hi> should we make of it, that by the <hi>mayne truth</hi> found in the <hi>whole,</hi> the single and scattered pla<g ref="char:EOLhyphen"/>ces which make some shew of disproportion to the whole, be expound<g ref="char:EOLhyphen"/>ed and resolved, or if the way of reconciling them, be doubtfull and difficult, (as who can deny but that the infinite wise<g ref="char:EOLhyphen"/>dome of the Creator, may farre exceede all the wisedome of the Crea<g ref="char:EOLhyphen"/>ture? those places may
+<pb n="8" facs="tcp:207067:10"/>stand as <hi>secrets</hi> not under<g ref="char:EOLhyphen"/>stood, but they may not breake in peeces that <hi>Bo<g ref="char:EOLhyphen"/>dy</hi> of <hi>Truth,</hi> which wee finde by Joynts fitly and proportionably knit to<g ref="char:EOLhyphen"/>gether in the <hi>Body</hi> of the <hi>Scriptures.</hi> And indeed if it were not for our blindnes, those parts of Truth, would readily and aptly joyne with the <hi>Bo<g ref="char:EOLhyphen"/>dy</hi> of <hi>Truth,</hi> as members that are cut off from a Body, fitly and manifest<g ref="char:EOLhyphen"/>ly agree, and fall in with that place of the <hi>Body,</hi> wherein before they stood as members. And indeed these peeces of
+<pb n="9" facs="tcp:207067:10"/>
+               <hi>Truth</hi> are still in them<g ref="char:EOLhyphen"/>selves at agreement with the <hi>Body</hi> of <hi>Truth;</hi> as be<g ref="char:EOLhyphen"/>ing <hi>kinne</hi> to it, onely it is the fault of our igno<g ref="char:EOLhyphen"/>rance, who know but in part, that we cannot de<g ref="char:EOLhyphen"/>rive their Pedigree.</p>
+            <p>And now because spi<g ref="char:EOLhyphen"/>rituall things are onely spiritually to be discern<g ref="char:EOLhyphen"/>ed; the spirit of God onely enabling us <hi>to see the things that are freely gi<g ref="char:EOLhyphen"/>ven us of God,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2.12.</note> therefore with the Invocation of this blessed Spirit, let us enter into the word that issued from the same spi<g ref="char:EOLhyphen"/>rit; that in his light wee
+<pb n="10" facs="tcp:207067:11"/>may see light, by his light within our soules wee may see his light without in the word.</p>
+            <p>And in the beginning,
+<milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <note place="margin">In the word, first to beginne with mans first est at. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1 <hi>Iohn</hi> 1.5. <hi>Iohn</hi> 1.9.</note> let us take notice of man, beginning. Man at first was created according to Gods Image; Now wee know that God is light; man therefore was light also, being enlightned in his understanding, by that light which lighted all mankind in <hi>Adam.</hi>
+            </p>
+            <p>Againe God is Holy,
+<note place="margin">1 <hi>Pet.</hi> 1.15. <hi>Eph.</hi> 4.24.</note> man therefore was holy; and indeed the Scripture tells us, that the Image of God hath in it <hi>Righte<g ref="char:EOLhyphen"/>ousnes</hi>
+               <pb n="11" facs="tcp:207067:11"/>and true <hi>Holinesse.</hi> Yet was not this holinesse so knit to the will of man, but that the will might put it off, if it would, or if it would might keepe it; For the will of man was set in such an Equipoise, and freedome, that it might use <hi>Grace,</hi> or not use it; and by using it continue righteous, or by refusing it, fall from <hi>Righteousnes.</hi> So that in this Free<g ref="char:EOLhyphen"/>dome, the will of man was as it were a <hi>Lord</hi> over <hi>Grace,</hi> and did rule over it, either using the service and ayde of it, if the will
+<pb n="12" facs="tcp:207067:12"/>pleased, or resusing it, when it listed. There<g ref="char:EOLhyphen"/>fore at that time <hi>Grace</hi> did not raign in the will, inclining and moving it effectually and certainely unto one way; but the will was left at Liberty, to bend it selfe which way it selfe listed.
+<note place="margin">
+                  <hi>Rom.</hi> 5.13.14.</note> More<g ref="char:EOLhyphen"/>over to this state of Free will, was joyned a Law, and Covenant of works; <hi>Obey and live;</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 2.17.</note>
+               <hi>sinne</hi> and <hi>dye.</hi> And as two Touch<g ref="char:EOLhyphen"/>stones and summary Try<g ref="char:EOLhyphen"/>alls of mans obedience, and continuance therein there was set before him, Life and Death, a tree of
+<pb n="13" facs="tcp:207067:12"/>Life, and a tree of death; a tree of standing, and a tree of Falling.</p>
+            <p>Thus <hi>Adam</hi> being created with Free-will,
+<milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <note place="margin">An estate of Free<g ref="char:EOLhyphen"/>will, and Generall Grace.</note> and Free-will-<hi>Grace,</hi> and all mankind being now in <hi>Adam,</hi> it cannot bee denyed, but that all man<g ref="char:EOLhyphen"/>kind had Free-will, and Free-will-<hi>Grace</hi> in <hi>Adam,</hi> And because all mankind had it, it might then rightly be called a <hi>Gene<g ref="char:EOLhyphen"/>rall Grace;</hi> And so it is acknowledged, that man<g ref="char:EOLhyphen"/>kind had once, a <hi>Gene<g ref="char:EOLhyphen"/>rall</hi> and <hi>Free-will Grace.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+            </p>
+            <p>But then let it be with<g ref="char:EOLhyphen"/>all observed,
+<note place="margin">But man soone fell from it.</note> what be<g ref="char:EOLhyphen"/>came
+<pb n="14" facs="tcp:207067:13"/>of man with this Generall, and Free-will <hi>Grace.</hi> How long did he stand with it, or rather how soone did hee fall with it? Surely he stood not so long as to beget a Sonne, according to the Image of his first Inte<g ref="char:EOLhyphen"/>grity: for <hi>Cain</hi> was of that wicked one, a seed of the Serpent,
+<note place="margin">
+                  <hi>Gen.</hi> 3.2 <hi>Cor.</hi> 11.3.</note>
+               <hi>flesh</hi> of <hi>flesh,</hi> a Spirit more sub<g ref="char:EOLhyphen"/>till then man, by his greater and sharper un<g ref="char:EOLhyphen"/>derstanding seduceth, compasseth, and deceiv<g ref="char:EOLhyphen"/>eth the lesser, and the un<g ref="char:EOLhyphen"/>derstanding being won, the will and affections
+<pb n="15" facs="tcp:207067:13"/>soone come after it. And so the Tree of Death and disobedieuce is eaten, and man-kind with his Generall and Free-will <hi>Grace</hi> is fallen into a ge<g ref="char:EOLhyphen"/>nerall Ruine.
+<note place="margin">
+                  <hi>Rom.</hi> 7.14</note> He is fal<g ref="char:EOLhyphen"/>len not onely into a sin<g ref="char:EOLhyphen"/>gle sinne,
+<note place="margin">
+                  <hi>Rom.</hi> 8.7.8.</note> but into a state of Bondage under sinne. The love of the Heart of man is turned from the Creator to the Creature,
+<note place="margin">1 <hi>Iohn</hi> 2.15. <hi>Iohn</hi> 14.15.21. 1 <hi>Iohn</hi> 5.2.3.</note> and where the love of God is defaced, there can be no keeping of the Law of God. For the love of God is the true spring and Root of keep<g ref="char:EOLhyphen"/>ing the Law of God. And
+<pb n="16" facs="tcp:207067:14"/>any action, though never so glittering, if it come not from this love, it is not a worke really and inwardly good, but onely a <hi>Glorious</hi> and a <hi>shining sinne.</hi> Thus <hi>man being in Honour continued not, but became like the Beasts that perish.</hi>
+            </p>
+            <p>Yet God out of his in<g ref="char:EOLhyphen"/>finite goodnesse, and wisedome, brings forth a new way for mans re<g ref="char:EOLhyphen"/>storing. God will not bee robbed of his Crea<g ref="char:EOLhyphen"/>ture, by a Creature, much lesse will hee suffer his Plot of Glory upon Mankind, to bee over<g ref="char:EOLhyphen"/>throwne
+<pb n="17" facs="tcp:207067:14"/>by a Creature, but by his transcendent wisedome and Power, makes good his owne Plot, even by the Plots of his adversaries; and so <hi>his owne right hand and Holy Arme gets to himselfe the victory.</hi>
+            </p>
+            <p>But if man were now left to his owne choice,
+<milestone type="tcpmilestone" unit="unspecified" n="8"/>
+               <note place="margin">A Reme<g ref="char:EOLhyphen"/>dy is in<g ref="char:EOLhyphen"/>quired.</note> what would he take to be the best and safest way for his owne Restoring? would hee wish to be put againe into the same State of Free-will, and <hi>Generall Grace</hi> wherein <hi>Adam</hi> fell? would man<g ref="char:EOLhyphen"/>kind have it tryed, whe<g ref="char:EOLhyphen"/>ther
+<pb n="18" facs="tcp:207067:15"/>all men falling in <hi>grosse</hi> with <hi>Generall grace</hi> in <hi>Adam,</hi> they would with the same <hi>Grace</hi> fall againe by <hi>Retayle?</hi> and when every man being united in one man stood not, yet whether every man would stand alone, being single and parted from his fellowes? yea when all being united in a state of perfection did fall, would he have it try<g ref="char:EOLhyphen"/>ed whether single men in a State of Imperfection, would Stand by the same <hi>Grace,</hi> and against the same subtill Serpent, which overcame them
+<pb n="19" facs="tcp:207067:15"/>having that <hi>Grace</hi> in a State of perfection?
+<note place="margin">
+                  <hi>Rom.</hi> 7.19 23.</note> or rather there being got<g ref="char:EOLhyphen"/>ten into man a lust, that is mighty and active upon the will,
+<note place="margin">
+                  <hi>Gal.</hi> 5.17</note> to lead it <hi>cap<g ref="char:EOLhyphen"/>tive to the Law of sinne,</hi> so that it cannot ever doe that it would; should he not beleeve that there is a manifest neede of a <hi>Grace</hi> mighty and active to lead the <hi>Captivity cap<g ref="char:EOLhyphen"/>tive,</hi> and by an overcom<g ref="char:EOLhyphen"/>ming Efficacy to incline the will in the mayne course of life, to the Law and will of God? can the strong man be bound but by a stronger? and can<pb n="20" facs="tcp:207067:16"/>the Efficacy of lust bee o<g ref="char:EOLhyphen"/>vercome but by an Effica<g ref="char:EOLhyphen"/>cy of <hi>Grace?</hi> The flesh lusteth against the Spirit, in the best since the fall of <hi>Adam;</hi> And then if the <hi>lusts</hi> of the <hi>spirit</hi> bee not at least as effectuall on the will, as the <hi>lusts</hi> of the <hi>flesh,</hi> how shall the will but bee still subject and captive to the <hi>lusts</hi> of the <hi>flesh?</hi> wherefore it seemes man being fallen into the Dominion of a mighty Concupiscence hee should hunger and thirst for a mighty active, and Effectuall <hi>Grace;</hi> e<g ref="char:EOLhyphen"/>ven a <hi>Grace</hi> that might
+<pb n="21" facs="tcp:207067:16"/>stemme this Tide of Con<g ref="char:EOLhyphen"/>cupiscence, and actuate the will, and as it were, move and carry it up a<g ref="char:EOLhyphen"/>gainst this Tide. Hee should desire a <hi>Grace</hi> that should rule the will, and by ruling keepe it, ra<g ref="char:EOLhyphen"/>ther then a <hi>Grace</hi> to bee moved, set on worke, and kept by the will; which man once having, neither kept it, nor him<g ref="char:EOLhyphen"/>selfe by it. And indeed if this bee the fruit of Free-will attended with <hi>Generall Grace,</hi> that it will loose it selfe, <hi>Grace</hi> and all mankind; how plain<g ref="char:EOLhyphen"/>ly doth it appeare, that
+<pb n="22" facs="tcp:207067:17"/>there is a <hi>more solid,</hi> yea a <hi>more large mercy</hi> in giving an Effectuall and preser<g ref="char:EOLhyphen"/>ving <hi>Grace,</hi> though to never so small a part of mankind, by which that part may bee kept sure to salvation, then in giving, such a Free-will-<hi>Grace</hi> to all, with which all will <hi>Freely,</hi> and <hi>Certainely</hi> run to Damnation.</p>
+            <p>Now the great Crea<g ref="char:EOLhyphen"/>tor,
+<note n="9" place="margin">Gods re<g ref="char:EOLhyphen"/>medy.</note> that made man, and therefore knoweth him throughly; even his true weaknes, and his Imagi<g ref="char:EOLhyphen"/>nary strength, foresaw both what <hi>Grace</hi> man needed to stand, and
+<pb n="23" facs="tcp:207067:17"/>withall what little need of such a <hi>Grace</hi> man would acknowledge. He foresaw that the Rem<g ref="char:EOLhyphen"/>nants of Free-will and naturall <hi>Grace</hi> being joy<g ref="char:EOLhyphen"/>ned to the new Pride, and Imaginary <hi>Godhead</hi> gotten by the Fall, would puffe up man with an o<g ref="char:EOLhyphen"/>pinion of selfe-sufficien<g ref="char:EOLhyphen"/>cy, and make him beleeve that he is able to stand by such Remnants, or at lest by some outward helpes added to them; And no wonder if God foresaw what indeed af<g ref="char:EOLhyphen"/>terward came to passe;
+<note place="margin">
+                  <hi>Esa.</hi> 46.10.</note> For hee <hi>understandeth all
+<pb n="24" facs="tcp:207067:18"/>thoughts a farre off,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 31.16.21.</note>
+               <hi>declar<g ref="char:EOLhyphen"/>ing the end from the begin<g ref="char:EOLhyphen"/>ing, and from ancient times the things that are not yet done.</hi> And surely these <hi>High opinions</hi> have so pre<g ref="char:EOLhyphen"/>vailed that they have passed through all Man<g ref="char:EOLhyphen"/>kind in the severall di<g ref="char:EOLhyphen"/>stinctions of it; <hi>Gentiles</hi> (or sonnes of Nature) <hi>Iewes and Christians.</hi> For such have beene the Po<g ref="char:EOLhyphen"/>sitions of <hi>Philosophers,</hi> the top of the <hi>Gentiles;</hi> of <hi>justitiary Jewes,</hi> and of <hi>Philosophicall Judaizing Christians.</hi>
+            </p>
+            <p rend="centerJustify">
+               <pb n="25" facs="tcp:207067:18"/>PHILOSOPHERS.</p>
+            <p>
+               <hi>EGo verò quid cognosce<g ref="char:EOLhyphen"/>re studeo? Naturam &amp; hanc sequi. Epictet: Ench: Cap.</hi> 73. <hi>Nec est quisquam gentis ullius, qui ducem Na<g ref="char:EOLhyphen"/>turam nactus ad virtutem pervenire non possit. Cicero de Legib. lib.</hi> 1. <hi>Interim quod inter omnes Stoicos convenit rerum naturae as<g ref="char:EOLhyphen"/>sentior. Ab illa non deer<g ref="char:EOLhyphen"/>rare, &amp; ad illius Legem, ex<g ref="char:EOLhyphen"/>emp<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uque formari sapientia est. Beata est ergo vita con<g ref="char:EOLhyphen"/>veniens Naturae suae. Senec. de vit. Be. cap.</hi> 3. <hi>solemus dicere, summum bonum esse secundum Naturam vi<g ref="char:EOLhyphen"/>vere.
+<pb n="26" facs="tcp:207067:19"/>It. Ite cap.</hi> 31.</p>
+            <p rend="centerJustify">Justiciary Jewes.</p>
+            <p>
+               <hi>ANd hee tooke the Book of the Covenant, and reade in the audience of the people, and they</hi> sayd: <hi>All that the Lord hath said will we doe, and bee obedient: Exo.</hi> 24.7. The like <hi>ver.</hi> E. of that Chapter, and Chap. 19.8. And <hi>Deut.</hi> 5.27.</p>
+            <p>
+               <hi>Behold thou art called a Jew, and restest in the Law, Rom.</hi> 2.17.</p>
+            <p>
+               <hi>Being ignorant of Gods Righteousnes, and going a<g ref="char:EOLhyphen"/>bout to establish their owne
+<pb n="27" facs="tcp:207067:19"/>Righteousnes: Rom.</hi> 10.3.</p>
+            <p rend="centerJustify">Judaizing and Philoso<g ref="char:EOLhyphen"/>phicall Christians.</p>
+            <p>B. <hi>Iob. aperiens occult as naturae divitias, &amp; in medium proferens, ex se quid omnes possemus osten<g ref="char:EOLhyphen"/>dit. Pelag. ad Demetr: Populum ambulantem con<g ref="char:EOLhyphen"/>cessa arbitrij libertate sic arguit: Educ Foras popu<g ref="char:EOLhyphen"/>lum coecum &amp; Oculos ha<g ref="char:EOLhyphen"/>bentē; surdum &amp; aures ei sunt; Hic quod surdus, &amp; caecus est, contumaciae in<g ref="char:EOLhyphen"/>telligitur esse, non Naturae. Faust. de lib. Arbit. lib.</hi> 1. <hi>cap.</hi> 9.</p>
+            <pb n="28" facs="tcp:207067:20"/>
+            <p>Of <hi>Enoch</hi> he saith, <hi>Fi<g ref="char:EOLhyphen"/>dem ipsam cum Lege Natu<g ref="char:EOLhyphen"/>rae sibi traditam fuisse. Lib.</hi> 2. <hi>cap.</hi> 6.</p>
+            <p>And <hi>Cassian: Collat: Dubitari non potest inesse quidem omni animae Natu<g ref="char:EOLhyphen"/>ralitèr virtutum semina.</hi>)</p>
+            <p>Yet howsoever man might thinke so well of himselfe,
+<note n="10" place="margin">Gods wisdome in dis<g ref="char:EOLhyphen"/>pensing the Re<g ref="char:EOLhyphen"/>medy.</note> that his natu<g ref="char:EOLhyphen"/>rall sufficiency needed none, or little helpes, (the heart of man being so deceitfull that it de<g ref="char:EOLhyphen"/>ceiveth it selfe) yet God who searcheth &amp; know<g ref="char:EOLhyphen"/>eth the heart and Reyns, both saw this deceit, and knew mans neede; and
+<pb n="29" facs="tcp:207067:20"/>therefore gives a double Remedy; one to helpe his neede, and another to heale his deceit. If he should not give the for<g ref="char:EOLhyphen"/>mer, mans salvation would be lost, and if he gave not the later, Gods Glory out of mans salva<g ref="char:EOLhyphen"/>tion would bee lost: without the former, man were lost both to God, and himselfe, being still subject to Satans Con<g ref="char:EOLhyphen"/>quest; without the later, man would not give unto God the glory of his sa<g ref="char:EOLhyphen"/>ving Grace, which the false opinion of his owne Naturall sufficiency,
+<pb n="30" facs="tcp:207067:21"/>would take from God, and give to himselfe. Therefore God provides a Medicine for both; And first to helpe his <hi>Neede,</hi> he gave man a better, mightier, and more stable, and stablish<g ref="char:EOLhyphen"/>ing Roote then <hi>Adam;</hi> and a better Covenant of <hi>Grace</hi> and better promi<g ref="char:EOLhyphen"/>ses,
+<note place="margin">
+                  <hi>Heb.</hi> 9.</note> then were given to him, and to us in him. But withall in the second place to cure mans <hi>Pride,</hi> and <hi>selfe-deceiving,</hi> Hee useth such an order, in sending of this Roote, and dispensing this <hi>Grace,</hi> that hee will shew unto
+<pb n="31" facs="tcp:207067:21"/>man a plaine Evidence, and Demonstration of his Neede, before his Need be over-plentifully satisfied. God will not bee a Physitian to the whole, but to the sick, lest hee be taxed for a su<g ref="char:EOLhyphen"/>perfluous and unnecessa<g ref="char:EOLhyphen"/>ry Physitian, and so loose the thankes and Glory of his Cure.</p>
+            <p>And now in the first place for the supply of mans necessity,
+<note n="11" place="margin">The sta<g ref="char:EOLhyphen"/>ble safe<g ref="char:EOLhyphen"/>ty of this Remedy. <hi>Gen.</hi> 3.</note> he giveth such a seed of the wo<g ref="char:EOLhyphen"/>man, as shall assuredly breake the Serpents Head. The Roote, Head,
+<note place="margin">
+                  <hi>John</hi> 17.21.</note> and Top of this seed is
+<pb n="32" facs="tcp:207067:22"/>knit to the Deity by a personall union, con<g ref="char:EOLhyphen"/>ceived and filled with the spirit without measure, and so is the <hi>first-Borne a<g ref="char:EOLhyphen"/>mong many Brethren.</hi>
+               <note place="margin">
+                  <hi>Rom</hi> 8.29.</note> Yet the rest of the seed are his Brethren,
+<note place="margin">
+                  <hi>Heb.</hi> 2.11</note> and hee is not ashamed to call them so;
+<note place="margin">1 <hi>Cor.</hi> 6.17.</note> and if brethren, then one spirit, and one seed with him. Therefore the <hi>Scripture speaketh not of seeds as of many, but of one seed which is Christ.</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5.30. &amp;c. 1 <hi>Cor.</hi> 12.12.</note> For the chiefe seed be<g ref="char:EOLhyphen"/>ing the Head, and the inferiour seed being the Body, this Head and this Body make up one Christ
+<pb n="33" facs="tcp:207067:22"/>in a mysticall union. And Christ thus knit toge<g ref="char:EOLhyphen"/>ther into one seede of the woman doth over<g ref="char:EOLhyphen"/>come the Serpent, and breake his Head. The whole seed of the wo<g ref="char:EOLhyphen"/>man, is at Enmity with the whole seede of the Serpent; and the victo<g ref="char:EOLhyphen"/>ry is given to the whole seede of the woman, with whom was that En<g ref="char:EOLhyphen"/>mity.
+<note place="margin">
+                  <hi>Rev.</hi> 12. <hi>v.</hi> 5.</note> Accordingly we see that the Serpent fighteth, not onely with that Manchild, who was to <hi>rule the Nations with a rod of Iron,</hi> but he <hi>makes warre with the Remnant of</hi>
+               <note place="margin">
+                  <hi>v.</hi> 17.</note>
+               <pb n="34" facs="tcp:207067:23"/>
+               <hi>the seed of the woman, which keepe the Commande<g ref="char:EOLhyphen"/>ments of God.</hi> And as Christ overcame,
+<note place="margin">
+                  <hi>v.</hi> 12.</note> so doe these also overcome the Dragon, <hi>by the bloud of the Lamb;</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2.14</note> (which is the bruising of his Heele, even the breaking and passion of his Humanity, by which the Serpents Head is broken,)
+<note place="margin">1 <hi>Joh.</hi> 4.4.</note> and be<g ref="char:EOLhyphen"/>cause <hi>Greater is hee that is in them, then hee that is in the world.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.18.</note> This is Christ that Rock who is not only in himself unmove<g ref="char:EOLhyphen"/>able and unconquera<g ref="char:EOLhyphen"/>ble, but hee maketh the Church also unconque<g ref="char:EOLhyphen"/>rable,
+<pb n="35" facs="tcp:207067:23"/>which is built on him. The Deity is a sure Foundation;
+<note n="12" place="margin">By union of the Deity with Hu<g ref="char:EOLhyphen"/>manity.</note> and the Humanity of Christ uni<g ref="char:EOLhyphen"/>ted to this Deity, and as it were grounded on it, hath in it an infinitely farre greater stability then <hi>Adam</hi> a meere Man standing upon the Bot<g ref="char:EOLhyphen"/>tome of his owne free<g ref="char:EOLhyphen"/>will. And as it is more stable in it selfe, so it gives a greater stability to the Seed issuing from it, then that which issu<g ref="char:EOLhyphen"/>eth from the meere Hu<g ref="char:EOLhyphen"/>manity of <hi>Adam.</hi> A seed-issuing from God and Man, hath a greater sta<g ref="char:EOLhyphen"/>bility,
+<pb n="36" facs="tcp:207067:24"/>then that which issueth from a meere man.
+<note place="margin">1 <hi>Cor.</hi> 1.9. <hi>Gal.</hi> 3.26 27. <hi>Eph.</hi> 2.22 1 <hi>John</hi> 1.3. 1 <hi>Pet.</hi> 1.22.</note> And especially since to those into whom this seed of God doth enter, it gives a <hi>Communion</hi> with <hi>God;</hi> and knits them to the Deity; and builds them upon it. So is it in it selfe an immor<g ref="char:EOLhyphen"/>tall and incorruptible seed, as being the seed of God an immortall Fa<g ref="char:EOLhyphen"/>ther; and it is also strong<g ref="char:EOLhyphen"/>ly nourished and main<g ref="char:EOLhyphen"/>tayned in life and Im<g ref="char:EOLhyphen"/>mortality, by the union which it hath with the Deity. Therefore the beloved Disciple not on<g ref="char:EOLhyphen"/>ly
+<pb n="37" facs="tcp:207067:24"/>saith;
+<note place="margin">1 <hi>Iohn</hi> 5.12.</note>
+               <hi>He that hath the Sonne hath life, but whoso<g ref="char:EOLhyphen"/>ever is borne of God doth not commit sinne, for his seed remaineth in him.</hi>
+               <note place="margin">1 <hi>Iohn</hi> 3.9.</note> It is a <hi>living</hi> and <hi>Remaining</hi> seed which is borne of God; and if it still live and remayne, it must needs be also victorious against the Serpent, without which victory it cannot live and remaine. And accordingly the same Apostle affirmeth;
+<note place="margin">1 <hi>Iohn</hi> 5.18.</note>
+               <hi>Hee that is borne of God keepeth himselfe, and that wicked one toucheth him not,</hi> that is, <hi>he toucheth him not with sin unto Death,</hi> for
+<pb n="38" facs="tcp:207067:25"/>of this sinne, he was last speaking. Hee cannot touch the seede of God in the Children of God, to sting it unto eternall Death, and so to kill the life immortall which is in it. But the seede of God hath power given to it, to tread on Scorpi<g ref="char:EOLhyphen"/>ons, and all the Power of the Serpent, even from God in Christ, the Fa<g ref="char:EOLhyphen"/>ther of this seede. And thus, and thus onely doth it appeare, how the pro<g ref="char:EOLhyphen"/>mises of the New Cove<g ref="char:EOLhyphen"/>nant are truly and really made better then those of the old, even by a
+<pb n="39" facs="tcp:207067:25"/>mightier and more stable <hi>Grace,</hi> issuing from a mightier and more stable Roote of <hi>Grace,</hi> by a more High and Heaven<g ref="char:EOLhyphen"/>ly Generation; this seed of the New Covenant being begotten of God, whereas the seed of the old Covenant was be<g ref="char:EOLhyphen"/>gotten by man. A more various and larger de<g ref="char:EOLhyphen"/>scription of which pro<g ref="char:EOLhyphen"/>mises and advantages gi<g ref="char:EOLhyphen"/>ven in the New Cove<g ref="char:EOLhyphen"/>nant to the Son of God, and seed of the woman, may bee found in divers places of the Scriptures, where the seede of the
+<pb n="40" facs="tcp:207067:26"/>New Covenant receiv<g ref="char:EOLhyphen"/>eth promises from God, to bee made <hi>stable as the Sunne;</hi>
+               <note place="margin">
+                  <hi>Iere.</hi> 31.35. &amp;c. &amp; 32.40. and 33.20. &amp;c. <hi>Ezek.</hi> 16.60.61. <hi>Psal.</hi> 89.28 29. &amp;c.</note>
+               <hi>Not to faile for e<g ref="char:EOLhyphen"/>ver; That the Lawes of God shall be written in their Hearts, not as in the old Covenant, wherein they con<g ref="char:EOLhyphen"/>tinued not; and that the feare of God shall be so im<g ref="char:EOLhyphen"/>printed in their hearts, that they shall not depart from Him.</hi> All which are sum<g ref="char:EOLhyphen"/>marily contained and comprehended in this one great Promise, the <hi>seed of the woman shall breake the Serpents Head.</hi> A promise which is even the briefe and summe of
+<pb n="41" facs="tcp:207067:26"/>the new Covenant of grace, given to man up<g ref="char:EOLhyphen"/>on the breach and for<g ref="char:EOLhyphen"/>feiture of the old Cove<g ref="char:EOLhyphen"/>nant of workes; broken and forfeited by Free<g ref="char:EOLhyphen"/>will attended with ge<g ref="char:EOLhyphen"/>nerall grace; the grace of the old Covenant.</p>
+            <p>And now how can we chuse but glorifie the great wisedome and goodnes of God,
+<note n="13" place="margin">vvherein Gods vvise goodnes shames Mans foolish Mercy.</note> where<g ref="char:EOLhyphen"/>by hee would not trust man againe wholy with himselfe, who hath once already lost himselfe to the Serpent, but out of man-kind lost by Free-will with common
+<pb n="42" facs="tcp:207067:27"/>Grace,
+<note place="margin">
+                  <hi>Gen.</hi> 15.5.</note> saves <hi>a seede like the Starres of Heaven, that cannot be numbred, out of every Nation;</hi> even a Ca<g ref="char:EOLhyphen"/>tholike Church, and e<g ref="char:EOLhyphen"/>stablisheth it against the Gates of Hell, by the <hi>Grace</hi> of the New Cove<g ref="char:EOLhyphen"/>nant? and is it not also to bee lamented with teares of Bloud, that there should bee men so mercifull in shew, but cruell in deed, who when God would save such a Numerous seed out of lost mankind by a safe and stable Grace, will needs have all lost a second time, by putting
+<pb n="43" facs="tcp:207067:27"/>them againe into the keeping or loosing of their owne FREE-WILL attended with the Grace of the Old Covenant, wherewith all have once already pe<g ref="char:EOLhyphen"/>rished, even in a state of perfection? As if it were not a more solid, yea a larger mercy, to save a great Number, even a number which no man can number, by speciall Grace, then to loose all by Free-will, assisted with a generall grace; It is a good turne for man, that God is wiser, and more mercifull for
+<pb n="44" facs="tcp:207067:28"/>man, then man for him<g ref="char:EOLhyphen"/>selfe; yea, even that which to the carnall man seemeth foolishnesse,
+<note place="margin">1 <hi>Cor</hi> 1.25.</note> and cruelty in GOD, is greater wisdome and Mercy, then the seeming wisedome and Mercy of men; yea the wisedome and Mercy of men, in re<g ref="char:EOLhyphen"/>spect of these in God, is true Folly and Cruelty. For indeed if God by his true wisedome and sure mercies had not <hi>left us this seede</hi> by speciall grace, mankinde had ge<g ref="char:EOLhyphen"/>nerally beene like <hi>to So<g ref="char:EOLhyphen"/>dome and Gomorrah,</hi> with his Free-will and gene<g ref="char:EOLhyphen"/>rall grace.</p>
+            <pb n="45" facs="tcp:207067:28"/>
+            <p>But because mankind by his Pride and Folly,
+<note place="margin">Yet God cannot have his Glory vvithout a vvise di<g ref="char:EOLhyphen"/>spensati<g ref="char:EOLhyphen"/>on of his goodnes.</note> (whereof before some paternes have beene pro<g ref="char:EOLhyphen"/>duced) is hardly brought to know and acknow<g ref="char:EOLhyphen"/>ledge his owne Instabili<g ref="char:EOLhyphen"/>ty when hee is left to Free-will, nor the need of the grace of the New Covenant, but dotes up<g ref="char:EOLhyphen"/>on his owne abilities, and the Power of Free-will assisted with naturall grace, that God who for his owne glory saveth a seed by his speciall <hi>grace,</hi> and cannot have his glo<g ref="char:EOLhyphen"/>ry, without an acknow<g ref="char:EOLhyphen"/>ledgement of the neede <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
